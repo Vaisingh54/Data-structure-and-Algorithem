@@ -1,4 +1,4 @@
-package org.example;
+package org.technoedge;
 
 public class Main {
     public static void main(String[] args) {
